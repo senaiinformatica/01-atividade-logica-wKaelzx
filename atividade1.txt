@@ -1,0 +1,19 @@
+Almoçar
+Pegar crachá, chave, celular, cartão ônibus e fone
+Sair de casa
+Verificar se tranquei a porta
+Ir ao ponto de ônibus
+Pegar ônibus
+Descer no terminal
+Andar até estação de trem
+Ir até a plataforma sentido São Paulo
+Esperar o trem
+Pegar trem
+Descer na estação de São Caetano do sul
+Andar até o SENAI
+Entrar no SENAI
+Passar a catraca
+Subir até o segundo andar
+Ir para sala de aula
+
+
